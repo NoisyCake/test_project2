@@ -9,7 +9,7 @@
  git commit -m "comment"
  git push
  ```
- Есть и другие команды git'а: git version; git config; get init; git status; git log (позволяет просмотреть коммиты); git remote (флаги: -v); git remote add.
+ Есть и другие команды git'а: git version; git config; get init; git status; git log (позволяет просмотреть коммиты); git remote (флаги: -v); git remote add; git reset (отменяет последний коммит); git revert "commit hash" (отменяет изменения последнего коммита без удаления самого коммита).
  Так же мы узнали, как создавать SSH ключи.
 ## Работа с Markdown
  Мы научились работать с языком разметки Markdown, который и используется для создания этого файла.
